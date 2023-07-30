@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @everley2norri650
+- 👀 I’m interested in back-end development. I’m currently learning PHP.
+- 🌱 Computer Science undergrad. PHP enthusiast. Aiming for efficient, secure solutions.
